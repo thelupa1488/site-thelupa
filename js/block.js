@@ -1,4 +1,4 @@
-let url = '/videos/Righthere.mp4';
+let url = 'err404.html';
 		window.addEventListener('devtoolschange', event => {
 				window.location = url;
     });
