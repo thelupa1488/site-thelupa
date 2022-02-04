@@ -4,7 +4,7 @@ let config = {
   preloaderDelay: 1,
 
   // Задержка появления видео (4.2 секунды)
-  showDelay: 7.7, 
+  showDelay: 0.2, 
 
   // Заголовок
   title: 'thelupa',
